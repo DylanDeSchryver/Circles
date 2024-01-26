@@ -1,7 +1,7 @@
 from detection import *
 import os
 directory = os.getcwd()
-path = directory + '/Capture.PNG'
+path = directory + '/Original.PNG'
 min_radius =10
 max_radius = 300
 param1 = 105
